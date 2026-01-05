@@ -111,7 +111,7 @@ Atualmente, busco aprimorar competências relacionadas a:
 # 🧑‍💼 Contato
 
 <p align="center">
-  <a href="mailto:Urgelhydrech@gmail.com">
+  <a href="mailto:hydrec.mbouaka@edu.ufes.br">
     <img src="https://img.shields.io/badge/✉️%20Email-blue?style=for-the-badge"/>
   </a>
   <a href="https://instagram.com/hydrech7">
