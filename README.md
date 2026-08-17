@@ -40,16 +40,16 @@ Tenho interesse em ambientes colaborativos, aprendizado constante e no desenvolv
 
 - **Linguagens de programação**
   - C ▓▓▓▓▓▓▓▓ 100%
-  - Java ▓▓▓▓▓▓▓▓▓░ 100%
-  - C++ ▓▓▓▓▓▓▓░░░ 100%
-  - JavaScript ▓▓▓▓▓▓▓░░░ 90%
+  - Java ▓▓▓▓▓▓▓▓▓ 100%
+  - C++ ▓▓▓▓▓▓▓ 100%
+  - JavaScript ▓▓▓▓▓▓▓░ 90%
 
 - **Desenvolvimento Web**
   - HTML ▓▓▓▓▓▓▓▓░░ 70%
   - CSS ▓▓▓▓▓▓▓▓░░ 80%
 
 - **Controle de versão**
-  - Git / GitHub ▓▓▓▓▓▓▓▓▓░ 100%
+  - Git/GitHub/Git clone/Git push ▓▓▓▓▓▓▓▓▓ 100%
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -74,11 +74,15 @@ Atualmente, busco aprimorar competências relacionadas a:
 
 # 💬 Posso contribuir com
 
-- Linguagem C
+- Linguagem C,Java,c++,c#, javascript,HTML,CSS, python
 - Git e GitHub
 - Lógica de programação
 - Estruturação básica de projetos
 - Organização e documentação de código
+- Resolução de problemas 
+- Codificar
+- Controle de fluxo
+- Desafio enorme
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -92,11 +96,9 @@ Atualmente, busco aprimorar competências relacionadas a:
 
 # 📂 Projetos em destaque
 
-### Linguagem C
-- Calculadora modular
-- Sistema de cadastro utilizando estruturas
-- Organizador básico de arquivos
-
+### Linguagem C#,C++,C  
+- Desenvolvimento de programas 
+- projetos desenvolvidos 
 ### Java
 - Verificação e validação de dados
 - Geração de gráficos com matplotlib
