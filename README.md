@@ -39,17 +39,17 @@ Tenho interesse em ambientes colaborativos, aprendizado constante e no desenvolv
 # 🌱 Competências em desenvolvimento
 
 - **Linguagens de programação**
-  - C ▓▓▓▓▓▓▓▓░░ 80%
-  - Python ▓▓▓▓▓▓▓▓▓░ 90%
-  - C++ ▓▓▓▓▓▓▓░░░ 70%
-  - JavaScript ▓▓▓▓▓▓▓░░░ 70%
+  - C ▓▓▓▓▓▓▓▓ 100%
+  - Java ▓▓▓▓▓▓▓▓▓░ 100%
+  - C++ ▓▓▓▓▓▓▓░░░ 100%
+  - JavaScript ▓▓▓▓▓▓▓░░░ 90%
 
 - **Desenvolvimento Web**
-  - HTML ▓▓▓▓▓▓▓▓░░ 80%
+  - HTML ▓▓▓▓▓▓▓▓░░ 70%
   - CSS ▓▓▓▓▓▓▓▓░░ 80%
 
 - **Controle de versão**
-  - Git / GitHub ▓▓▓▓▓▓▓▓▓░ 90%
+  - Git / GitHub ▓▓▓▓▓▓▓▓▓░ 100%
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -92,17 +92,17 @@ Atualmente, busco aprimorar competências relacionadas a:
 
 # 📂 Projetos em destaque
 
-### 📘 Linguagem C
+### Linguagem C
 - Calculadora modular
 - Sistema de cadastro utilizando estruturas
 - Organizador básico de arquivos
 
-### 🐍 Python
+### Java
 - Verificação e validação de dados
 - Geração de gráficos com matplotlib
 - Mini automações para fins acadêmicos
 
-### 🌐 Desenvolvimento Web
+### Desenvolvimento Web
 - Páginas estáticas com HTML e CSS
 - Testes iniciais com JavaScript
 
@@ -133,4 +133,4 @@ Obrigado por visitar meu perfil!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-</p> modifique escreve meu nome HYDRECH URGEL MAHOUNGOU MBOUAKA No locar de computador e coloque uma imagem legal 
+</p>
