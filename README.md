@@ -45,8 +45,8 @@ Tenho interesse em ambientes colaborativos, aprendizado constante e no desenvolv
   - JavaScript ▓▓▓▓▓▓▓░ 90%
 
 - **Desenvolvimento Web**
-  - HTML ▓▓▓▓▓▓▓▓░░ 70%
-  - CSS ▓▓▓▓▓▓▓▓░░ 80%
+  - HTML ▓▓▓▓▓▓▓▓░ 70%
+  - CSS ▓▓▓▓▓▓▓▓░ 80%
 
 - **Controle de versão**
   - Git/GitHub/Git clone/Git push ▓▓▓▓▓▓▓▓▓ 100%
