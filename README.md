@@ -116,8 +116,6 @@ Atualmente, busco aprimorar competências relacionadas a:
 - **Interatividade & Lógica:** Testes e aplicações práticas de manipulação do DOM e lógica de programação com JavaScript.
 
 -------------------------------------------------------------------------------------------------------------------------
-
-<!-- ======================= CONTATO ========================== -->
 # 🧑‍💼 Contato
 
 <p align="center">
