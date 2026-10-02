@@ -116,6 +116,7 @@ Atualmente, busco aprimorar competências relacionadas a:
 - **Interatividade & Lógica:** Testes e aplicações práticas de manipulação do DOM e lógica de programação com JavaScript.
 
 -------------------------------------------------------------------------------------------------------------------------
+<!-- ======================= CONTATO ========================== -->
 # 🧑‍💼 Contato
 
 <p align="center">
@@ -134,7 +135,17 @@ Atualmente, busco aprimorar competências relacionadas a:
 </p>
 -------------------------------------------------------------------------------------------------------------------------
 
-# ✨ Mensagem final
+<!-- ======================= CURRÍCULO ========================== -->
+# 📄 Currículo
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/Curriculo_Hydrech_Urgel_Mahoungou_Mbouaka.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📥%20Download%20do%20Currículo%20(PDF)-00F7F7?style=for-the-badge&logoColor=black" />
+  </a>
+</p>
+-------------------------------------------------------------------------------------------------------------------------
+
+# ✨ Mensagem Final
 
 <h3 align="center">
 “Cada linha de código representa aprendizado, disciplina e evolução constante.” 🚀  
