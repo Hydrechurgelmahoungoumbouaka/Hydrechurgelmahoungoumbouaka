@@ -3,7 +3,7 @@
 <!-- ======================================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=700&color=00F7F7&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+sou+Eu+Hydrech+Urgel;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFES;Desenvolvedor+em+forma%C3%A7%C3%A3o+com+foco+em+boas+pr%C3%A1ticas;Tecnologia%2C+aprendizado+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=700&color=00F7F7&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+sou+Eu+Hydrech+Mahoungou;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFES;Desenvolvedor+em+forma%C3%A7%C3%A3o+com+foco+em+boas+pr%C3%A1ticas;Tecnologia%2C+aprendizado+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua" />
 </p>
 
 <p align="center">
@@ -43,13 +43,15 @@ Tenho interesse em ambientes colaborativos, aprendizado constante e no desenvolv
   - Java ▓▓▓▓▓▓▓▓▓ 100%
   - C++ ▓▓▓▓▓▓▓ 100%
   - JavaScript ▓▓▓▓▓▓▓░ 90%
+  - Python ▓▓▓▓▓▓▓▓░ 70%
+  - C# ▓▓▓▓▓▓▓▓░ 70%
 
 - **Desenvolvimento Web**
   - HTML ▓▓▓▓▓▓▓▓░ 70%
   - CSS ▓▓▓▓▓▓▓▓░ 80%
 
 - **Controle de versão**
-  - Git/GitHub/Git clone/Git push ▓▓▓▓▓▓▓▓▓ 100%
+  - Git/GitHub/Git clone/Git push/Git commit/Git init/Git add/Git status etc  ▓▓▓▓▓▓▓▓▓ 100%
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -94,27 +96,36 @@ Atualmente, busco aprimorar competências relacionadas a:
 
 -------------------------------------------------------------------------------------------------------------------------
 
-# 📂 Projetos em destaque
+<!-- ======================= PROJETOS EM DESTAQUE ========================== -->
+# 📂 Projetos em Destaque
 
-### Linguagem C#,C++,C  
-- Desenvolvimento de programas 
-- projetos desenvolvidos 
-### Java
-- Verificação e validação de dados
-- Geração de gráficos com matplotlib
-- Mini automações para fins acadêmicos
+### 🔹 Linguagem C & C++
+- **Estruturas de Dados e Algoritmos:** Implementação de listas, pilhas, filas, árvores e manipulação dinâmica de memória/ponteiros.
+- **Sistemas Acadêmicos:** Desenvolvimento de programas via terminal focados em desempenho, eficiência e lógica de baixo nível.
 
-### Desenvolvimento Web
-- Páginas estáticas com HTML e CSS
-- Testes iniciais com JavaScript
+### 🔹 Java & C# (.NET)
+- **Orientação a Objetos (POO):** Aplicação de conceitos de herança, polimorfismo, encapsulamento e abstração.
+- **Regras de Negócio e Validação:** Sistemas para verificação e validação de dados, tratamento de exceções e modularização de código.
+
+### 🔹 Python
+- **Análise de Dados & Gráficos:** Manipulação e geração de visualizações gráficas com `matplotlib`.
+- **Automação & Scripting:** Desenvolvimentos de scripts e mini automações para fins acadêmicos e resolução de problemas diários.
+
+### 🔹 Desenvolvimento Web (HTML, CSS & JavaScript)
+- **Páginas e Interfaces Web:** Criação de páginas estáticas e responsivas utilizando HTML5 e CSS3.
+- **Interatividade & Lógica:** Testes e aplicações práticas de manipulação do DOM e lógica de programação com JavaScript.
 
 -------------------------------------------------------------------------------------------------------------------------
 
+<!-- ======================= CONTATO ========================== -->
 # 🧑‍💼 Contato
 
 <p align="center">
   <a href="mailto:hydrec.mbouaka@edu.ufes.br">
     <img src="https://img.shields.io/badge/✉️%20Email-blue?style=for-the-badge"/>
+  </a>
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/hydrech7">
     <img src="https://img.shields.io/badge/📸%20Instagram-pink?style=for-the-badge"/>
@@ -123,7 +134,6 @@ Atualmente, busco aprimorar competências relacionadas a:
     <img src="https://img.shields.io/badge/📱%20WhatsApp-green?style=for-the-badge"/>
   </a>
 </p>
-
 -------------------------------------------------------------------------------------------------------------------------
 
 # ✨ Mensagem final
