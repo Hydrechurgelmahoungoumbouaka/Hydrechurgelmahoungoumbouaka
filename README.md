@@ -91,7 +91,7 @@ Atualmente, busco aprimorar competências relacionadas a:
 # 🎨 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,j,html,css,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql,git,github,vscode,linux&theme=dark" />
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------
