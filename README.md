@@ -1,7 +1,7 @@
 # Olá! Eu sou Hydrech Mahoungou 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+at+UFES;Software+Development+Enthusiast;Full+Stack+Web+Development;Building+Solutions+Through+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFES;Entusiasta+do+Desenvolvimento+de+Software;Desenvolvimento+Web+Full+Stack;Construindo+solu%C3%A7%C3%B5es+atrav%C3%A9s+do+c%C3%B3digo" alt="Texto animado" />
 </p>
 
 <p align="center">
@@ -18,49 +18,49 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm a **Computer Engineering student at the Federal University of Espírito Santo (UFES), Brazil**, passionate about software engineering, programming and technology.
+Sou estudante de **Engenharia da Computação na Universidade Federal do Espírito Santo (UFES), Brasil**, apaixonado por engenharia de software, programação e tecnologia.
 
-My main interest is **Full Stack Web Development**, where I am continuously developing my skills in modern technologies, software architecture and database management.
+Meu principal interesse é o **Desenvolvimento Web Full Stack**, área na qual estou continuamente aprimorando minhas habilidades em tecnologias modernas, arquitetura de software e gerenciamento de bancos de dados.
 
-I enjoy solving technical problems, building practical applications and applying computer science concepts to real-world challenges.
+Gosto de resolver problemas técnicos, desenvolver aplicações práticas e aplicar conceitos da ciência da computação a desafios do mundo real.
 
-- 🎓 Computer Engineering student at UFES.
-- 💻 Focused on Full Stack Web Development.
-- 🌱 Currently learning modern web technologies and software development practices.
-- 🧠 Interested in algorithms, data structures and software engineering.
-- 🤝 Open to collaboration, academic projects and internship opportunities.
+- 🎓 Estudante de Engenharia da Computação na UFES.
+- 💻 Foco em Desenvolvimento Web Full Stack.
+- 🌱 Atualmente aprendendo tecnologias web modernas e práticas de desenvolvimento de software.
+- 🧠 Interessado em algoritmos, estruturas de dados e engenharia de software.
+- 🤝 Aberto à colaboração, projetos acadêmicos e oportunidades de estágio.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Competências técnicas
 
-### Programming Languages
+### Linguagens de programação
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" />
 </p>
 
-### Front-end Development
+### Desenvolvimento Front-end
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Back-end Development
+### Desenvolvimento Back-end
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
 </p>
 
-### Databases
+### Bancos de dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,supabase" />
 </p>
 
-### Tools & Development Environment
+### Ferramentas e ambiente de desenvolvimento
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
@@ -68,97 +68,97 @@ I enjoy solving technical problems, building practical applications and applying
 
 ---
 
-## 📚 Currently Learning
+## 📚 Atualmente estudando
 
-My current learning path is focused on becoming a well-rounded Full Stack Developer.
+Minha jornada de aprendizado está focada em me tornar um desenvolvedor Full Stack completo.
 
-| Area | Technologies |
+| Área | Tecnologias |
 |---|---|
 | Front-end | React, Next.js, TypeScript |
 | Back-end | Node.js, FastAPI |
-| Databases | PostgreSQL, Supabase |
-| Styling | Tailwind CSS |
+| Bancos de dados | PostgreSQL, Supabase |
+| Estilização | Tailwind CSS |
 | DevOps | Git, Docker |
-| Computer Science | Algorithms and Data Structures |
+| Ciência da Computação | Algoritmos e Estruturas de Dados |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
-I use academic and personal projects to strengthen my software development skills.
+Utilizo projetos acadêmicos e pessoais para fortalecer minhas habilidades em desenvolvimento de software.
 
-### 💻 Algorithms & Data Structures
-- Implementation of fundamental data structures.
-- Sorting and searching algorithms.
-- Dynamic memory management and problem-solving using C and C++.
+### 💻 Algoritmos e Estruturas de Dados
+- Implementação de estruturas de dados fundamentais.
+- Algoritmos de ordenação e busca.
+- Gerenciamento dinâmico de memória e resolução de problemas utilizando C e C++.
 
-### ☕ Java Application Development
-- Object-oriented programming.
-- Encapsulation, inheritance and polymorphism.
-- Exception handling and application architecture.
-- Development of systems with business rules and data processing.
+### ☕ Desenvolvimento de aplicações Java
+- Programação Orientada a Objetos.
+- Encapsulamento, herança e polimorfismo.
+- Tratamento de exceções e arquitetura de aplicações.
+- Desenvolvimento de sistemas com regras de negócio e processamento de dados.
 
-### 🌐 Web Development
-- Development of responsive web interfaces.
-- Front-end applications using modern JavaScript technologies.
-- Integration between front-end, back-end and databases.
+### 🌐 Desenvolvimento Web
+- Desenvolvimento de interfaces web responsivas.
+- Aplicações Front-end utilizando tecnologias modernas de JavaScript.
+- Integração entre Front-end, Back-end e bancos de dados.
 
-> Explore my repositories to see my implementations, source code and ongoing projects.
+> Explore meus repositórios para conhecer minhas implementações, códigos-fonte e projetos em desenvolvimento.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hydrechurgelmahoungoumbouaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydrechurgelmahoungoumbouaka&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hydrechurgelmahoungoumbouaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydrechurgelmahoungoumbouaka&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydrechurgelmahoungoumbouaka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydrechurgelmahoungoumbouaka&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ---
 
-## 🤝 Professional Interests
+## 🤝 Interesses profissionais
 
-I'm interested in:
+Tenho interesse nas seguintes áreas:
 
-- Software Engineering.
-- Full Stack Development.
-- Web Application Development.
-- Backend Systems and APIs.
-- Database Design and Management.
-- Algorithms and Data Structures.
-- Collaborative Software Projects.
+- Engenharia de Software.
+- Desenvolvimento Full Stack.
+- Desenvolvimento de aplicações Web.
+- Sistemas Back-end e APIs.
+- Modelagem e gerenciamento de bancos de dados.
+- Algoritmos e Estruturas de Dados.
+- Projetos de software colaborativos.
 
-I'm open to opportunities where I can contribute, learn from experienced developers and grow professionally.
+Estou aberto a oportunidades nas quais eu possa contribuir, aprender com desenvolvedores experientes e crescer profissionalmente.
 
 ---
 
-## 📬 Let's Connect
+## 📬 Vamos nos conectar?
 
 <p align="center">
   <a href="mailto:hydrec.mbouaka@edu.ufes.br">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Hydrechurgelmahoungoumbouaka">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Siga%20meu%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.me/5527995068550">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Entre%20em%20contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://instagram.com/hydrech7">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Siga%20meu%20perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building knowledge, writing code, and creating solutions — one project at a time."</i>
+  <i>"Construindo conhecimento, escrevendo código e criando soluções — um projeto de cada vez."</i>
 </p>
 
 <p align="center">
-  Thanks for visiting my GitHub profile! 🚀
+  Obrigado por visitar meu perfil no GitHub! 🚀
 </p>
