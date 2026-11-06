@@ -1,4 +1,4 @@
-# Olá! Eu sou Hydrech Mahoungou 👋
+# Olá! Sou eu Hydrech Mahoungou | Desenvolvimento Web  👨‍💻
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFES;Entusiasta+do+Desenvolvimento+de+Software;Desenvolvimento+Web+Full+Stack;Construindo+solu%C3%A7%C3%B5es+atrav%C3%A9s+do+c%C3%B3digo" alt="Texto animado" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Engenharia da Computação na Universidade Federal do Espírito Santo (UFES), Brasil**, apaixonado por engenharia de software, programação e tecnologia.
 
