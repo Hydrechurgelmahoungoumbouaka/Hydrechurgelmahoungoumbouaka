@@ -119,15 +119,8 @@ Utilizo projetos acadêmicos e pessoais para fortalecer minhas habilidades em de
 </p>
 
 ---
-## 🏆 Conquistas do GitHub
 
-<p align="center">
-  <a href="https://github.com/Hydrechurgelmahoungoumbouaka?tab=achievements">
-    <img src="https://img.shields.io/badge/GitHub-Ver%20Conquistas-181717?style=for-the-badge&logo=github&logoColor=white" alt="Minhas conquistas no GitHub" />
-  </a>
-</p>
 ## 🤝 Interesses profissionais
----
 Tenho interesse nas seguintes áreas:
 
 - Engenharia de Software.
